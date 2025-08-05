@@ -14,10 +14,16 @@ Welcome to my Profile
 # 🔐 What I have built
 
 - Custom Demo-Trading Platform, using websockets and my own synthetic bid/ask system to simulate real-time trading with low-latency data updates.
+
+  
 - Job Scrapers that get 100's of jobs per search within the last week that come swith an AI that tailors your resume per job description.
+
+  
 - My own version of Claude code and Gemini CLI.
 
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=false&showicons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffaa54)
 ![Rust](https://img.shields.io/badge/Rust-ff7357?style=for-the-badge&logo=rust&logoColor=ff7357&labelColor=171c21)
