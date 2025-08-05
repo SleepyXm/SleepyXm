@@ -2,9 +2,7 @@
 
 Welcome to my Profile
 
-🧑‍💻 Software Engineer | Building in Cyber-security, Automation, AI, Web Development.
-🏫 Studying Computer Science at UoW (Westminster).
-📝 Currently learning Cyber Security and building my own Recon -> Exploitation tool.
+🧑‍💻 Software Engineer | Building in Cyber-security, Automation, AI, Web Development.\n🏫 Studying Computer Science at UoW (Westminster).\n📝 Currently learning Cyber Security and building my own Recon -> Exploitation tool.
 
 # 🔐 What I have built
 
