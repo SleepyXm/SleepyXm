@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<small>Don't worry about the mess, I'll make changes whenever I get back to updating this, but enjoy the cool stuff I add or something, idk. ¯\_(ツ)_/¯</small>
+
+I'm a Full-Stack Developer, building tools where ever I can. Finding issues in tech and trying to solve these issues once at a time, challenging myself for speedruns and lolz cos why not
+
 <!--
 **SleepyXm/SleepyXm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://skillicons.dev/icons?i=py,rust,cpp,react,docker)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,rust,cpp,react,docker" />
+  </a>
+</p>
