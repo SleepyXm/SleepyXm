@@ -17,9 +17,7 @@ Welcome to my Profile
 - Job Scrapers that get 100's of jobs per search within the last week that come swith an AI that tailors your resume per job description.
 - My own version of Claude code and Gemini CLI.
 
-
-
-👾 Pro video game enjoyer
+![Stats](https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=false&showicons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffaa54)
 ![Rust](https://img.shields.io/badge/Rust-ff7357?style=for-the-badge&logo=rust&logoColor=ff7357&labelColor=171c21)
@@ -29,7 +27,10 @@ Welcome to my Profile
 ![CSS](https://img.shields.io/badge/CSS-2E89FF?style=for-the-badge&logo=css&logoColor=2E89FF&labelColor=171C21)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
+
+
+👾 Pro video game enjoyer
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust,cpp,react,docker" />
