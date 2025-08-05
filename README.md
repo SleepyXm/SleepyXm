@@ -23,6 +23,7 @@ Welcome to my Profile
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffaa54)
 ![Rust](https://img.shields.io/badge/Rust-ff7357?style=for-the-badge&logo=rust&logoColor=ff7357&labelColor=171c21)
+![Docker](https://img.shields.io/badge/Docker-1C59FF?style=for-the-badge&logo=docker&logoColor=1C59FF&labelColor=171C21)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-FF462E?style=for-the-badge&logo=html5&logoColor=FF462E&labelColor=171c21)
 ![CSS](https://img.shields.io/badge/CSS-2E89FF?style=for-the-badge&logo=css&logoColor=2E89FF&labelColor=171C21)
