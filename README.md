@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![](https://skillicons.dev/icons?i=py,rust,cpp,react,docker)]
+![](https://skillicons.dev/icons?i=py,rust,cpp,react,docker)
