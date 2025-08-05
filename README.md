@@ -1,23 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Mikayel 👋
 
-<small>Don't worry about the mess, I'll make changes whenever I get back to updating this, but enjoy the cool stuff I add or something, idk. ¯\_(ツ)_/¯</small>
+Welcome to my Profile
 
-I'm a Full-Stack Developer, building tools where ever I can. Finding issues in tech and trying to solve these issues once at a time, challenging myself for speedruns and lolz cos why not
+🧑‍💻 Software Engineer | Building in Cyber-security, Automation, AI, Web Development.
+🏫 Studying Computer Science at UoW (Westminster).
+📝 Currently learning Cyber Security and building my own Recon -> Exploitation tool.
 
-<!--
-**SleepyXm/SleepyXm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔐 What I have built
 
-Here are some ideas to get you started:
+- Custom Demo-Trading Platform, using websockets and my own synthetic bid/ask system to simulate real-time trading with low-latency data updates.
+- Job Scrapers that get 100's of jobs per search within the last week that come swith an AI that tailors your resume per job description.
+- My own version of Claude code and Gemini CLI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👾 Pro video game enjoyer
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-36%70A0?style=for-the-badge&logo=python&logoColor=ffaa54)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust,cpp,react,docker" />
