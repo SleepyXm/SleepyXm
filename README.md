@@ -35,6 +35,7 @@ Welcome to my Profile
 ![CSS](https://img.shields.io/badge/CSS-2E89FF?style=for-the-badge&logo=css&logoColor=2E89FF&labelColor=171C21)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 👾 Pro video game enjoyer
