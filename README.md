@@ -2,7 +2,7 @@
 
 Welcome to my Profile
 
-🧑‍💻 Software Engineer | Building in Cyber-security, Automation, AI, Web Development.
+🧑‍💻 Software Engineer | Building in Cyber-security, Automation, AI, Web Development & Design.
 
 
 🏫 Studying Computer Science at UoW (Westminster).
@@ -18,8 +18,9 @@ Welcome to my Profile
   
 - Job Scrapers that get 100's of jobs per search within the last week that come swith an AI that tailors your resume per job description.
 
-  
+
 - My own version of Claude code and Gemini CLI.
+
 
 - An Experimentation LLM Platform to test and experiment with Open Source LLMs.
 
