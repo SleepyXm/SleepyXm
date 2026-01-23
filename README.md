@@ -15,7 +15,7 @@ Welcome to my Profile
 
 - Custom Demo-Trading Platform, using websockets and my own synthetic bid/ask system to simulate real-time trading with low-latency data updates.
 
-  
+
 - Job Scrapers that get 100's of jobs per search within the last week that come swith an AI that tailors your resume per job description.
 
 
