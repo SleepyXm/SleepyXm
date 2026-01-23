@@ -8,7 +8,7 @@ Welcome to my Profile
 🏫 Studying Computer Science at UoW (Westminster).
 
 
-📝 Currently learning Cyber Security and building my own Recon -> Exploit tool.
+📝 Currently Developing a Full-Stack Application Building Platform (buzzword, buzzword, buzzword...).
 
 
 # 🔐 What I have built
