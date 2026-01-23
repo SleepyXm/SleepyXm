@@ -42,6 +42,6 @@ Welcome to my Profile
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,cpp,react,docker,nextjs" />
+    <img src="https://skillicons.dev/icons?i=py,rust,go,react,nextjs,docker" />
   </a>
 </p>
