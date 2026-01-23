@@ -11,7 +11,7 @@ Welcome to my Profile
 📝 Currently Developing a Full-Stack Application Building Platform (buzzword, buzzword, buzzword...).
 
 
-# 🔐 What I have built
+# What I have built
 
 - Custom Demo-Trading Platform, using websockets and my own synthetic bid/ask system to simulate real-time trading with low-latency data updates.
 
