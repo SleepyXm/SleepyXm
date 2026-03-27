@@ -1,17 +1,14 @@
-## Hi there, I'm Mikayel 👋
+## 👋 Hi there, I'm Mikayel, a Software Engineer · University of Westminster, CS · Graduating 2026
 
 Welcome to my Profile
 
-🧑‍💻 Software Engineer | Building in Cyber-security, Automation, AI, Web Development & Design.
+# Here's what I'm currently working on
 
+- LIDE (Devolib) — a live development environment with project structure mapping, endpoint testing, SQL sandboxing, and real-time preview
 
-🏫 Studying Computer Science at UoW (Westminster).
+- Synapse — a Hugging Face model platform with streamed response comparison, conversational memory, and a custom web search tool
 
-
-📝 Currently Developing a Full-Stack Application Building Platform (buzzword, buzzword, buzzword...).
-
-
-# What I have built
+# Also on here
 
 - Custom Demo-Trading Platform, using websockets and my own synthetic bid/ask system to simulate real-time trading with low-latency data updates.
 
@@ -24,6 +21,10 @@ Welcome to my Profile
 
 - An Experimentation LLM Platform to test and experiment with Open Source LLMs.
 
+
+CTFs and bug bounty on the side. 51 repos. Commits most days.
+
+Open to internships, grad roles, and freelance from June 2026.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=false&showicons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
 
