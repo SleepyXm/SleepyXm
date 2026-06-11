@@ -8,6 +8,8 @@ Welcome to my Profile
 
 - Synapse — a Hugging Face model platform with streamed response comparison, conversational memory, and a custom web search tool
 
+- Inframap - A platform dedicated to monitoring server instances in real time, adding predictive capabilities and interpretation to enable self-healing of instances before anything ever goes down.
+
 ## Also on here
 
 - Custom Demo-Trading Platform, using websockets and my own synthetic bid/ask system to simulate real-time trading with low-latency data updates.
