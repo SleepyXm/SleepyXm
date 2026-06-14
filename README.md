@@ -57,7 +57,7 @@ Scrapes 100+ job postings per search with deduplication logic, LLM-powered resum
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=false&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=true&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
 
 ---
 
