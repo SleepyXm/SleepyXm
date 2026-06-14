@@ -64,13 +64,9 @@ Scrapes 100+ job postings per search with deduplication, LLM-powered resume tail
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=true&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=SleepyXm&theme=dark&hide_border=true" height="180em" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=SleepyXm&theme=react-dark&radius=10&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SleepyXm&theme=react-dark&radius=10&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SleepyXm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+
 
 ---
  
