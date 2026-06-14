@@ -10,7 +10,7 @@
 
 ## 🧠 What I'm Into
 
-Platform & product engineering. Building things end-to-end — from the WebSocket layer down to the DB. CTFs and bug bounty on the side. 51 repos. Commits most days. 👾
+Platform & product engineering. Building things end-to-end — from the WebSocket layer down to the DB. CTFs and bug bounty on the side. 63 repos. Commits most days. 👾
 
 `Real-Time Systems` `End-to-End Hosting` `Developer Tooling`
 
@@ -44,9 +44,25 @@ Real-time server monitoring with predictive failure detection, designed to trigg
 
 ## 🗂️ Also On Here
 
-**CI/CD Pipeline Tool** &nbsp;`Nginx` `Bash` `Linux`
+**Walker** &nbsp;`Go` `YAML`
+
+Scan entire codebases in seconds, mapping functions, imports, conditionals, logic. This project is enabled by Go and by YAML allowing dedicated rules to exist in ways that shape the formatting of syntax while encapsulating it in clean packages. (Still in Progress, more coming soon) 
+
+[![WALKER](https://github-readme-stats.vercel.app/api/pin/?username=SleepyXm&repo=true-walker&bg_color=000000&title_color=ffffff&text_color=cdcdcd&icon_color=58a6ff&hide_border=true)](https://github.com/SleepyXm/true-walker)
+
+**Simulacrum** &nbsp;`Go`
+
+Build Test Suites for your projects by passing through necessary information, or by using the tooling provided by the Walker embedded into simulacrum to find that information for you. By seeding all types of information, this project enables your entire codebase to be tested against randomly simulated data (Still in Progress)
+
+[![SIMULACRUM](https://github-readme-stats.vercel.app/api/pin/?username=SleepyXm&repo=inframap-simulacrum&bg_color=000000&title_color=ffffff&text_color=cdcdcd&icon_color=58a6ff&hide_border=true)](https://github.com/SleepyXm/inframap-simulacrum)
+
+&nbsp;
+
+**EZDeploy** &nbsp;`Nginx` `Bash` `Linux`
 
 Deploy projects to AWS, Azure, or bare Linux machines without the manual setup. Handles prerequisite installation, hosting configuration, and domain management via Nginx as a reverse proxy. Attaches a GitHub webhook to any repo so pushes automatically propagate to the live environment — no manual pulls, no SSH sessions.
+
+[![EZDEPLOY](https://github-readme-stats.vercel.app/api/pin/?username=SleepyXm&repo=EZDeploy&bg_color=000000&title_color=ffffff&text_color=cdcdcd&icon_color=58a6ff&hide_border=true)](https://github.com/SleepyXm/EZDeploy)
 
 &nbsp;
 
