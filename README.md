@@ -22,7 +22,7 @@ Platform & product engineering. Building things end-to-end — from the WebSocke
 
 Create or import a project, get it containerised with its own domain, and edit it live — frontend, backend, or database. The environment surfaces the running project's endpoints, functions, pages, and database schema in real time via AST parsing, regex, and filesystem traversal. Includes an endpoint test generator that builds test data from existing function signatures, a component generation tool, and a design editor — schema management and UI preview all in one place. Evaluating a Tauri port for distribution given runtime constraints.
 
-[![LIDE](https://github-readme-stats.vercel.app/api/pin/?username=SleepyXm&repo=devolib&bg_color=000000&title_color=ffffff&text_color=cdcdcd&icon_color=58a6ff&hide_border=true)](https://github.com/SleepyXm/devolib)
+[![LIDE](https://github-readme-stats.vercel.app/api/pin/?username=SleepyXm&repo=devolib-web&bg_color=000000&title_color=ffffff&text_color=cdcdcd&icon_color=58a6ff&hide_border=true)](https://github.com/SleepyXm/devolib-web)
 
 &nbsp;
 
