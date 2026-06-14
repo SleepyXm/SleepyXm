@@ -66,6 +66,11 @@ Scrapes 100+ job postings per search with deduplication, LLM-powered resume tail
   <img width="49%" src="https://streak-stats.demolab.com/?user=SleepyXm&theme=dark&hide_border=true" />
 </p>
 
+html<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=true&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cdcdcd&icon_color=58a6ff&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=SleepyXm&theme=dark&hide_border=true" />
+</p>
+
 
 ---
  
