@@ -46,7 +46,7 @@ Deploy projects to AWS, Azure, or bare Linux machines without the manual setup. 
  
 **Real-Time Trading Platform** &nbsp;`Go` `Python` `Next.js` `PostgreSQL` `Redis`
  
-Fanout WebSocket architecture sustaining **10,000 concurrent users** at **56–74ms p99 latency** under load, verified via K6. Batched execution pipeline via Redis + bulk PostgreSQL inserts hits **500 executions/sec with zero failures** across 15,000 events. Stochastic price simulation using Brownian motion anchored to live market data.
+Fanout WebSocket architecture sustaining **10,000 concurrent users** at **56–74ms p99 latency** under load, verified by usage of K6. Batched execution pipeline via Redis + bulk PostgreSQL inserts hits **500 executions/sec with zero failures** across 15,000 events. Stochastic price simulation using Brownian motion anchored to live market data.
  
 &nbsp;
  
