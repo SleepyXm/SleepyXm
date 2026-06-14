@@ -53,10 +53,6 @@ Fanout WebSocket architecture sustaining **10,000 concurrent users** at **56–7
 **Job Aggregator & CV Analyser** &nbsp;`Python` `React` `PostgreSQL`
 Scrapes 100+ job postings per search with deduplication, LLM-powered resume tailoring per job description.
  
-**Custom Claude Code + Gemini CLI** — my own implementations of both.
- 
-**LLM Experimentation Platform** — test and compare open-source models side by side.
- 
 ---
  
 ## 📊 Stats
