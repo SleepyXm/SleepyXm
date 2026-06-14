@@ -113,6 +113,7 @@ Scrapes 100+ job postings per search with deduplication, LLM-powered resume tail
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" />
   </a>
 </p>
+
 ---
  
 > Horses don't stop they keep goin
