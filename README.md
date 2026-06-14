@@ -1,22 +1,33 @@
-# Mikayel
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="28px" width="28px"> I'm Mikayel</h1>
+<h3 align="center">Software Engineer · CS · 2026</h3>
 
-**Software Engineer · CS · Graduating 2026**
-
-Building systems that hold up under load — real-time platforms, developer tooling, and infrastructure that doesn't need babysitting.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=SleepyXm">
+    <img src="https://komarev.com/ghpvc/?username=SleepyXm&label=Profile%20views&color=58a6ff&style=flat-square" />
+  </a>
+</p>
 
 ---
 
-## What I'm Building
+## 🧠 What I'm Into
 
-**LIDE — Live Integrated Development Environment** &nbsp;&nbsp;`Python` `FastAPI` `Next.js` `PostgreSQL`
+Platform & product engineering. Building things end-to-end — from the WebSocket layer down to the DB. CTFs and bug bounty on the side. 51 repos. Commits most days. 👾
+
+`Real-Time Systems` `End-to-End Hosting` `Developer Tooling`
+
+---
+
+## 🔨 What I'm Building
+
+**LIDE — Live Integrated Development Environment** &nbsp;`Python` `FastAPI` `Next.js` `PostgreSQL`
 
 Create or import a project, get it containerised with its own domain, and edit it live — frontend, backend, or database. The environment surfaces the running project's endpoints, functions, pages, and database schema in real time via AST parsing, regex, and filesystem traversal. Includes an endpoint test generator that builds test data from existing function signatures, a component generation tool, and a design editor — schema management and UI preview all in one place. Evaluating a Tauri port for distribution given runtime constraints.
 
 &nbsp;
 
-**Synapse — Multi-Model AI Platform** &nbsp;&nbsp;`Go` `Next.js` `PostgreSQL` `AWS EC2`
+**Synapse — Multi-Model AI Platform** &nbsp;`Go` `Next.js` `PostgreSQL` `AWS EC2`
 
-BYOK platform with streamed side-by-side response comparison and timing across multiple Hugging Face models simultaneously. Conversational memory built on LLM-generated compression before PostgreSQL storage — context persists across sessions without unbounded growth. Custom web search tool built from scratch to give open-source models agentic behaviour without needing fine-tuned support. Deployed on EC2 via a self-built GitHub webhook CI/CD pipeline: pull → deps → restart → failure alerts.
+BYOK platform with streamed side-by-side response comparison and timing across multiple Hugging Face models simultaneously. Conversational memory built on LLM-generated compression before PostgreSQL storage — context persists across sessions without unbounded growth. Custom web search tool built from scratch to give open-source models agentic capabilities without needing fine-tuned support. Deployed on EC2 via a self-built GitHub webhook CI/CD pipeline: pull → deps → restart → failure alerts.
 
 &nbsp;
 
@@ -26,39 +37,101 @@ Real-time server monitoring with predictive failure detection, designed to trigg
 
 ---
 
-## Also On Here
+## 🗂️ Also On Here
 
-**Real-Time Trading Platform** &nbsp;&nbsp;`Go` `Python` `Next.js` `PostgreSQL` `Redis`
-
-Fanout WebSocket architecture sustaining **10,000 concurrent users** at **56–74ms p99 latency** under load, verified via K6. Batched execution pipeline via Redis + bulk PostgreSQL inserts hits **500 executions/sec with zero failures** across 15,000 events. Stochastic price simulation using Brownian motion anchored to live market data. Delivers 3,000 points of OHLCV history on connection via parallel fanout without touching the live feed. Session-scoped auth model strips identity verification from the execution hot path entirely.
-
-&nbsp;
-
-**CI/CD Pipeline Tool** &nbsp;&nbsp;`Nginx` `Bash` `Linux`
+**CI/CD Pipeline Tool** &nbsp;`Nginx` `Bash` `Linux`
 
 Deploy projects to AWS, Azure, or bare Linux machines without the manual setup. Handles prerequisite installation, hosting configuration, and domain management via Nginx as a reverse proxy. Attaches a GitHub webhook to any repo so pushes automatically propagate to the live environment — no manual pulls, no SSH sessions.
 
-**Job Aggregator & CV Analyser** &nbsp;&nbsp;`Python` `React` `PostgreSQL`
+&nbsp;
 
-Scrapes 100+ job postings per search with deduplication logic, LLM-powered resume tailoring per job description.
+**Real-Time Trading Platform** &nbsp;`Go` `Python` `Next.js` `PostgreSQL` `Redis`
 
----
+Fanout WebSocket architecture sustaining **10,000 concurrent users** at **56–74ms p99 latency** under load, verified via K6. Batched execution pipeline via Redis + bulk PostgreSQL inserts hits **500 executions/sec with zero failures** across 15,000 events. Stochastic price simulation using Brownian motion anchored to live market data.
 
-## Tech
+&nbsp;
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffaa54)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-ff7357?style=for-the-badge&logo=rust&logoColor=ff7357&labelColor=171c21)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1C59FF?style=for-the-badge&logo=docker&logoColor=1C59FF&labelColor=171C21)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
----
+**Job Aggregator & CV Analyser** &nbsp;`Python` `React` `PostgreSQL`
+Scrapes 100+ job postings per search with deduplication, LLM-powered resume tailoring per job description.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=true&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+**Custom Claude Code + Gemini CLI** — my own implementations of both.
+
+**LLM Experimentation Platform** — test and compare open-source models side by side.
 
 ---
 
-Open to internships, grad roles, and freelance from June 2026. &nbsp;👾
+## 📊 Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=true&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SleepyXm&theme=dark&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SleepyXm&theme=react-dark&radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SleepyXm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🛠️ Tech
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+</p>
+
+<h4 align="center">Backend & Data</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
+</p>
+
+<h4 align="center">DevOps & Cloud</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+</p>
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="mailto:dev.ma@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://ma-dev.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" />
+  </a>
+</p>
+
+---
+
+> Horses don't stop they keep goin
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+</picture>
+
+<p align="center">Open to internships, grad roles, and freelance from June 2026.</p>
