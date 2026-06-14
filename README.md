@@ -42,12 +42,6 @@ Deploy projects to AWS, Azure, or bare Linux machines without the manual setup. 
 
 Scrapes 100+ job postings per search with deduplication logic, LLM-powered resume tailoring per job description.
 
-**Custom Claude Code + Gemini CLI** — my own implementations of both.
-
-**LLM Experimentation Platform** — test and compare open-source models side by side.
-
-CTFs and bug bounty on the side. 51 repos. Commits most days.
-
 ---
 
 ## Tech
