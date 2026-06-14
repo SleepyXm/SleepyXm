@@ -51,10 +51,10 @@ Scrapes 100+ job postings per search with deduplication logic, LLM-powered resum
 ![Rust](https://img.shields.io/badge/Rust-ff7357?style=for-the-badge&logo=rust&logoColor=ff7357&labelColor=171c21)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1C59FF?style=for-the-badge&logo=docker&logoColor=1C59FF&labelColor=171C21)
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SleepyXm&count_private=false&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
