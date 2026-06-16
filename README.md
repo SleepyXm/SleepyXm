@@ -10,7 +10,7 @@
 
 ## 🧠 What I'm Into
 
-Platform & product engineering. Building things end-to-end — from the WebSocket layer down to the DB. CTFs and bug bounty on the side. 63 repos. Commits most days. 👾
+Platform & product engineering. Building things end-to-end — from the WebSocket layer down to the DB. CTFs and bug bounty on the side. 6 Main Projects. Commits most days. 👾
 
 `Real-Time Systems` `End-to-End Hosting` `Developer Tooling`
 
